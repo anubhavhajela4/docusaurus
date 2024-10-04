@@ -1,0 +1,3 @@
+[submodule "docusaurus"]
+	path = docusaurus
+	url = https://github.com/Astha241105/docusaurus
