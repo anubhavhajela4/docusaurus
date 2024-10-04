@@ -7,7 +7,7 @@ sidebar_label: navya
 # Welcome to My Portfolio
 
 
-![Profile Image](https://example.com/profile-image.jpg)
+
 
 ## Introduction
 
