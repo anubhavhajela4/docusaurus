@@ -1,6 +1,0 @@
-[submodule "docusaurus"]
-	path = docusaurus
-	url = https://github.com/shivanirai08/docusaurus.git
-[submodule "introduction-to-git-and-github-shivanirai08"]
-	path = introduction-to-git-and-github-shivanirai08
-	url = https://github.com/Software-Incubator-Trainee/introduction-to-git-and-github-shivanirai08.git
