@@ -90,7 +90,7 @@ const config = {
            label: 'Astha',
            to: '/docs/your_name',
            position: 'left'
-          ,}
+          ,} ] }
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
