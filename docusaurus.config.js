@@ -87,8 +87,8 @@ const config = {
             position: 'left'
           },
           {
-            label: 'Sachi Jain',
-            to: '/docs/sachi',
+            label: 'Sachi',
+            to: '/docs/Sachi',
             position: 'left'
           },
           // {
