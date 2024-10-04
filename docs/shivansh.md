@@ -17,7 +17,7 @@ Hello, I'm **Shivansh Goyal**, a 2nd-year B.Tech student in Computer Science at 
 
 ### Project 1: Task Manager
 
-![Project 1](https://task-manager-frontend-dun.vercel.app/)
+![Project 1](https://i.ibb.co/f9ncswS/Screenshot-2024-10-04-161606.png)
 
 - *Description:* This is a task management app I developed using the MERN stack. It helps users organize and prioritize tasks with an intuitive UI.
 - *GitHub Repository:* [Task Manager Repo](https://github.com/goyalshivansh2805/task-manager)
