@@ -7,7 +7,7 @@ sidebar_label: shivansh
 
 # Welcome to My Portfolio
 
-![Profile Image](https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg)
+![Profile Image](https://i.ibb.co/ZM5QHLN/Screenshot-2024-10-04-160539.png)
 
 ## Introduction
 
