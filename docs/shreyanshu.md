@@ -97,34 +97,23 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
   - CSS
   - JavaScript
   - React
-  - Vue.js
-  - Redux
+
 - *Backend:*
   - Node.js
   - Express.js
-  - Python (Django, Flask)
-  - Ruby on Rails
+ 
 
 ### Database Management
 
-- MongoDB
-- PostgreSQL
+
 - MySQL
-- Firebase
+
 
 ### Version Control
 
 - Git
 
-### Tools & Technologies
 
-- Docker
-- RESTful API Development
-- GraphQL
-- Responsive Web Design
-- Testing (Jest, Mocha, Chai)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Agile Development
 
 ## Certifications
 
@@ -137,6 +126,5 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 - *JavaScript*
 - *Python*
-- *Ruby*
 - *SQL*
 - *HTML/CSS*
