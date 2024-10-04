@@ -21,7 +21,7 @@ Hello, I am Navya Gupta. I am from Kanpur.I am pursuing B.tech from AKGEC in Com
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* navyagupta171@gmail.com
-- *GitHub:* [John Doe on GitHub](https://github.com/navvyaa)
+- *GitHub:*https://github.com/navvyaa
 
 
 
