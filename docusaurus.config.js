@@ -88,9 +88,9 @@ const config = {
           },
           {
            label: 'Astha',
-           to: '/docs/your_name',
+           to: '/docs/Astha',
            position: 'left'
-          ,} ] }
+          ,} 
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
