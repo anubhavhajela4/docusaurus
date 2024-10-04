@@ -1,11 +1,14 @@
 ---
-id: ritika-tiwari7840
-title: Ritika 
-sidebar_label: Ritika
+id: ritika
+title: ritika 
+sidebar_label: ritika
 ---
 
 
 # Hello Everyone! Welcome to my portfolio
+
+![Profile Image](https://example.com/profile-image.jpg)
+
 
 
 # About Me:
