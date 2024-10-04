@@ -19,7 +19,7 @@ Hello, I am Srayansh Gupta, a 2-year student currently pursuing B.tech from Ajay
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* srayansh2310022@akgec.ac.in
-- *LinkedIn:* [Srayansh Gupta on LinkedIn]()
+- *LinkedIn:* Srayansh Gupta on LinkedIn
 - *GitHub:* [Srayansh Gupta on GitHub](https://github.com/SRAYANSH-GUPTA)
 
 
