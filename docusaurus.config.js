@@ -85,6 +85,10 @@ const config = {
             label: 'Lakshya Goel',
             to: '/docs/lakshya',
             position: 'left'
+          },{
+            label:'Shivansh Goyal',
+            to:'/docs/shivansh',
+            position:'left'
           },
           // {
           //   label: 'About',
