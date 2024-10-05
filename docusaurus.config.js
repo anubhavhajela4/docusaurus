@@ -120,6 +120,16 @@ const config = {
            to: '/docs/Astha',
            position: 'left'
           },
+          {
+            label: 'Srayansh Gupta',
+            to: '/docs/srayansh',
+            position: 'left'
+          },
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
