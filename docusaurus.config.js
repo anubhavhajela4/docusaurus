@@ -100,6 +100,11 @@ const config = {
             to: '/docs/ritika',
             position: 'left'
           },
+          {
+            label: 'Kartikay Singh Pundir',
+            to: '/docs/Kartikay',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
