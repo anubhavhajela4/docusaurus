@@ -110,11 +110,11 @@ const config = {
             to: '/docs/ritik',
             position: 'left'
           },
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+           label: 'Astha',
+           to: '/docs/Astha',
+           position: 'left'
+          ,} 
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
