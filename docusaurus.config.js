@@ -96,6 +96,11 @@ const config = {
             position:'left'
           },
           {
+            label: 'Mahak Pathak',
+            to: '/docs/mahak',
+            position: 'left'
+          },
+          {
             label: 'Ritika Tiwari',
             to: '/docs/ritika',
             position: 'left'
@@ -114,7 +119,7 @@ const config = {
            label: 'Astha',
            to: '/docs/Astha',
            position: 'left'
-          ,} 
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
