@@ -141,11 +141,11 @@ const config = {
             to: '/docs/navya',
             position: 'left'
           },
-          // {
-          //   label: 'About',
-          //   to: '/docs/about',
-          //   position: 'left'
-          // },
+          {
+            label: 'Sachi',
+            to: '/docs/Sachi',
+            position: 'left'
+          },
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
