@@ -95,6 +95,11 @@ const config = {
             to:'/docs/shivansh',
             position:'left'
           },
+          {
+            label: 'Ritika Tiwari',
+            to: '/docs/ritika',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
