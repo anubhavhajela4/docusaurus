@@ -72,6 +72,11 @@ const config = {
         // },
         items: [
           {
+            label: 'Anish Singh Chauhan',
+            to: '/docs/anish',
+            position: 'left'
+          },
+          {
             label: 'Yash Bansal',
             to: '/docs/yash',
             position: 'left'
@@ -85,6 +90,35 @@ const config = {
             label: 'Lakshya Goel',
             to: '/docs/lakshya',
             position: 'left'
+          },{
+            label:'Shivansh Goyal',
+            to:'/docs/shivansh',
+            position:'left'
+          },
+          {
+            label: 'Mahak Pathak',
+            to: '/docs/mahak',
+            position: 'left'
+          },
+          {
+            label: 'Ritika Tiwari',
+            to: '/docs/ritika',
+            position: 'left'
+          },
+          {
+            label: 'Kartikay Singh Pundir',
+            to: '/docs/Kartikay',
+            position: 'left'
+          },
+          {
+            label: 'Ritik Tayal',
+            to: '/docs/ritik',
+            position: 'left'
+          },
+          {
+           label: 'Astha',
+           to: '/docs/Astha',
+           position: 'left'
           },
           {
             label: 'Srayansh Gupta',
