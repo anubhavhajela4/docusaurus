@@ -146,6 +146,17 @@ const config = {
             to: '/docs/Sachi',
             position: 'left'
           },
+          {
+            label: 'Anmol Sharma',
+            to: '/docs/anmol',
+            position: 'left'
+          },
+          // {
+          //   label: 'About',
+          //   to: '/docs/about',
+          //   position: 'left'
+          // },
+
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
