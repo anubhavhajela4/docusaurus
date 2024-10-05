@@ -130,6 +130,11 @@ const config = {
             to: '/docs/divyansh',
             position: 'left'
           },
+          {
+            label: 'Navya Gupta',
+            to: '/docs/navya',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
