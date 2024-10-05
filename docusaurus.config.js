@@ -125,6 +125,11 @@ const config = {
             to: '/docs/srayansh',
             position: 'left'
           },
+          {
+            label: 'Divyansh Verma',
+            to: '/docs/divyansh',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
