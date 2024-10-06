@@ -1,20 +1,20 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: "My Site",
+  tagline: "Dinosaurs are cool",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://docusaurus-2.netlify.app',
+  url: "https://docusaurus-2.netlify.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -22,38 +22,38 @@ const config = {
   // projectName: 'docusaurus-site', // Usually your repo name.
   // deploymentBranch:'gh-pages',
   // trailingSlash:false,
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/docusaurus-social-card.jpg",
       navbar: {
         // title: 'My Site',
         // logo: {
@@ -72,30 +72,126 @@ const config = {
         // },
         items: [
           {
-            label: 'Yash Bansal',
-            to: '/docs/yash',
+            label: 'Aditya Singh',
+            to: '/docs/Aditya',
             position: 'left'
           },
           {
-            label:'Harsh Singh',
-            to:'/docs/harsh',
-            position:'left'
-          },
-          {
-            label: 'Lakshay Gupta',
-            to: '/docs/lakshay',
+            label: 'Anish Singh Chauhan',
+            to: '/docs/anish',
             position: 'left'
           },
           {
-            label: 'Lakshya Goel',
-            to: '/docs/lakshya',
+            label: 'Anmol Sharma',
+            to: '/docs/anmol',
             position: 'left'
           },
+          {
+            label: 'Anubhav Hajela',
+            to: '/docs/anubhav'
+          },
+          {
+            label: 'Arthkamboj',
+            to: '/docs/arthkamboj',
+            position: 'left'
+          },
+          {
+            label: 'Astha',
+            to: '/docs/Astha',
+            position: 'left'
+          },
+          {
+            label: 'Ateendra',
+            to: '/docs/ateendra',
+            position: 'left'
+          },
+          {
+            label: 'Divyansh Verma',
+            to: '/docs/divyansh',
+            position: 'left'
+          },
+          {
+            label: 'Harsh Singh',
+            to: '/docs/harsh',
+            position: 'left'
+          },
+          {
+            label: 'Kartikay Singh Pundir',
+            to: '/docs/Kartikay',
+            position: 'left'
+          },
+          {
+            label: 'Mahak Pathak',
+            to: '/docs/mahak',
+            position: 'left'
+          },
+          {
+            label: 'Mrigank',
+            to: '/docs/Mrigank',
+            position: 'left'
+          },
+          {
+            label: 'Naitik Jain',
+            to: '/docs/naitik',
+            position: 'left'
+          },
+          {
+            label: 'Navya Gupta',
+            to: '/docs/navya',
+            position: 'left'
+          },
+          {
+            label: 'Ritik Tayal',
+            to: '/docs/ritik',
+            position: 'left'
+          },
+          {
+            label: 'Ritika Tiwari',
+            to: '/docs/ritika',
+            position: 'left'
+          },
+          {
+            label: 'Sachi',
+            to: '/docs/Sachi',
+            position: 'left'
+          },
+          {
+            label: 'Shivani Rai',
+            to: '/docs/shivani',
+            position: 'left'
+          },
+          {
+            label: 'Shivansh Goyal',
+            to: '/docs/shivansh',
+            position: 'left'
+          },
+          {
+            label: 'Shreyanshu',
+            to: '/docs/shreyanshu',
+            position: 'left'
+          },
+          {
+            label: 'Srayansh Gupta',
+            to: '/docs/srayansh',
+            position: 'left'
+          },
+          {
+            label: 'Tanvee Saxena',
+            to: '/docs/tanvee',
+            position: 'left'
+          },
+          {
+            label: 'Tanishka Gautam',
+            to: '/docs/tanishka',
+            position: 'left'
+          },
+
           // {
           //   label: 'About',
           //   to: '/docs/about',
           //   position: 'left'
           // },
+
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
