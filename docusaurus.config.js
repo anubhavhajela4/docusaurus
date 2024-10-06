@@ -86,6 +86,12 @@ const config = {
             position: 'left'
           },
           {
+            label: 'arthkamboj',
+            to: '/docs/arthkamboj',
+            position: 'left'
+          },
+          {
+
             label: "Lakshay Gupta",
             to: "/docs/lakshay",
             position: "left",
@@ -164,6 +170,17 @@ const config = {
             label: 'Ateendra',
             to: '/docs/ateendra',
             position: 'left'
+          },
+          {
+            label: 'Naitik Jain',
+            to: '/docs/naitik',
+            position: 'left'
+          },
+          {
+            label:'Tanvee Saxena',
+            to:'/docs/tanvee',
+            position:'left'
+
           },
           // {
           //   label: 'About',
