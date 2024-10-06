@@ -177,6 +177,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Aditya Singh',
+            to: '/docs/Aditya',
+            position: 'left'
+          },
+          {
             label: 'Naitik Jain',
             to: '/docs/naitik',
             position: 'left'
@@ -186,7 +191,7 @@ const config = {
             to:'/docs/tanvee',
             position:'left'
 
-          },
+          }
           // {
           //   label: 'About',
           //   to: '/docs/about',
