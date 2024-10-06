@@ -72,6 +72,10 @@ const config = {
         // },
         items: [
           {
+            label: 'Shreyanshu',
+            to: '/docs/shreyanshu',
+          },
+          {
             label: 'Anubhav Hajela',
             to : '/docs/anubhav',
           },
