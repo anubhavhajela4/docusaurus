@@ -165,6 +165,12 @@ const config = {
             to: '/docs/naitik',
             position: 'left'
           },
+          {
+            label:'Tanvee Saxena',
+            to:'/docs/tanvee',
+            position:'left'
+
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
