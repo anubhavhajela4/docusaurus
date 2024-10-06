@@ -7,7 +7,7 @@ sidebar_label: shreyanshu
 # Welcome to My Portfolio
 
 
-![Profile Image](https://example.com/profile-image.jpg)
+<img src="https://i.ibb.co/vvG98cm/IMG-0300.jpg" alt="Image" width="200"  />
 
 ## Introduction
 
@@ -15,25 +15,42 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
 
 ## Featured Work
 
-### Project 1: Awesome Project
+## Task 1
 
-![Project 1](https://example.com/project1.jpg)
 
-- *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
+<img src="https://i.ibb.co/kKpL8pc/Screenshot-2024-10-06-at-11-43-56-PM.png" alt="Image" width="400" />
 
-### Project 2: Cool Project
 
-![Project 2](https://example.com/project2.jpg)
+ - *Description:* Welcome to my portfolio! This website, built entirely with HTML and CSS, showcases my approach to creating visually appealing and user-friendly interfaces. With a focus on responsive design and clean aesthetics, I aimed to deliver an engaging experience for users across all devices. Explore the features and design elements that highlight my passion for web development!
+ - *GitHub Repository:* [Task 1 Repo](https://github.com/Shreyanshu005/My-Portfolio)
+ - *Hosted Link:* -(https://my-portfolio-two-orcin-67.vercel.app/)
 
-- *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
+
+
+
+### Project 1: Mystery-Mon
+
+
+<img src="https://i.ibb.co/7S43NG1/Screenshot-2024-10-05-at-9-46-59-AM.png" alt="Image" width="400" />
+
+- *Description:* Mystery Mon is an interactive web application created using HTML, CSS, and JavaScript. It invites users to explore and solve captivating mysteries through engaging gameplay and dynamic visuals.
+- *GitHub Repository:* [Task 1(Portfolio) Repo](https://github.com/Shreyanshu005/Mystery-Mon)
+- *Hosted link:* [Portfolio](https://my-portfolio-two-orcin-67.vercel.app/)
+
+### Project 2: Botanist
+
+![Botanist]
+<img src="https://i.ibb.co/7rDm2PR/Screenshot-2024-10-05-at-10-06-05-AM.png" alt="Image" width="400"  />
+
+
+- *Description:* Botanist is a beautifully designed web application built with HTML, CSS, and JavaScript, aimed at helping users discover and learn about various plant species. With an intuitive interface, it provides detailed information and care tips for each plant, making it a must-have for gardening enthusiasts.
+- *GitHub Repository:* [Botanist Repo](https://github.com/Shreyanshu005/Botanist)
 
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* john.doe@example.com
+- *Email:* shreyanshu005@gmail.com
 - *LinkedIn:* [Shreyanshu on LinkedIn](https://www.linkedin.com/in/shreyanshu-992449271/)
 - *GitHub:* [Shreyanshu on GitHub](https://github.com/Shreyanshu005)
 
@@ -43,11 +60,13 @@ I'm always open to new opportunities and collaborations. If you have an interest
 -------------------------------------------------
 
 # About
+Hi! I’m Shreyanshu, an enthusiastic undergraduate student with a passion for web development.
+I’ve immersed myself in the world of coding, design, and innovative problem-solving.
 
 
 ## Personal Information
 
-Hello, I'm Shreyanshu, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Here's a bit about me:
 
 - *Full Name:* Shreyanshu
 - *Date of Birth:* March 27,2005
@@ -115,12 +134,7 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
 
 
 
-## Certifications
 
-
-- [*AWS Certified Developer - Associate*](https://github.com/your-username/project1)
-- [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
-- [ *Google Analytics Certification*](https://github.com/your-username/project1)
 
 ## Languages
 
