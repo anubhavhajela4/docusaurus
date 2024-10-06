@@ -160,6 +160,11 @@ const config = {
             to: '/docs/Mrigank',
             position: 'left'
           },
+          {
+            label: 'Naitik Jain',
+            to: '/docs/naitik',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
