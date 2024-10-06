@@ -162,6 +162,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Shivani Rai',
+            to: '/docs/shivani',
+            position: 'left'
+          },
+          {
             label: 'Mrigank',
             to: '/docs/Mrigank',
             position: 'left'
