@@ -72,92 +72,13 @@ const config = {
         // },
         items: [
           {
-            label: 'Shreyanshu',
-            to: '/docs/shreyanshu',
-          },
-          {
-            label: 'Anubhav Hajela',
-            to : '/docs/anubhav',
+            label: 'Aditya Singh',
+            to: '/docs/Aditya',
+            position: 'left'
           },
           {
             label: 'Anish Singh Chauhan',
             to: '/docs/anish',
-            position: 'left'
-          },
-          {
-            label: 'Yash Bansal',
-            to: '/docs/yash',
-            position: 'left'
-          },
-          {
-            label: 'arthkamboj',
-            to: '/docs/arthkamboj',
-            position: 'left'
-          },
-          {
-
-            label: "Lakshay Gupta",
-            to: "/docs/lakshay",
-            position: "left",
-          },
-          {
-            label: "Lakshya Goel",
-            to: "/docs/lakshya",
-            position: "left",
-          },
-          {
-            label: "Tanishka Gautam",
-            to: "/docs/tanishka",
-            position: "left",
-          },
-          {
-            label:'Shivansh Goyal',
-            to:'/docs/shivansh',
-            position:'left'
-          },
-          {
-            label: 'Mahak Pathak',
-            to: '/docs/mahak',
-            position: 'left'
-          },
-          {
-            label: 'Ritika Tiwari',
-            to: '/docs/ritika',
-            position: 'left'
-          },
-          {
-            label: 'Kartikay Singh Pundir',
-            to: '/docs/Kartikay',
-            position: 'left'
-          },
-          {
-            label: 'Ritik Tayal',
-            to: '/docs/ritik',
-            position: 'left'
-          },
-          {
-           label: 'Astha',
-           to: '/docs/Astha',
-           position: 'left'
-          },
-          {
-            label: 'Srayansh Gupta',
-            to: '/docs/srayansh',
-            position: 'left'
-          },
-          {
-            label: 'Divyansh Verma',
-            to: '/docs/divyansh',
-            position: 'left'
-          },
-          {
-            label: 'Navya Gupta',
-            to: '/docs/navya',
-            position: 'left'
-          },
-          {
-            label: 'Sachi',
-            to: '/docs/Sachi',
             position: 'left'
           },
           {
@@ -166,13 +87,17 @@ const config = {
             position: 'left'
           },
           {
-            label: 'Shivani Rai',
-            to: '/docs/shivani',
+            label: 'Anubhav Hajela',
+            to: '/docs/anubhav'
+          },
+          {
+            label: 'Arthkamboj',
+            to: '/docs/arthkamboj',
             position: 'left'
           },
           {
-            label: 'Mrigank',
-            to: '/docs/Mrigank',
+            label: 'Astha',
+            to: '/docs/Astha',
             position: 'left'
           },
           {
@@ -181,8 +106,28 @@ const config = {
             position: 'left'
           },
           {
-            label: 'Aditya Singh',
-            to: '/docs/Aditya',
+            label: 'Divyansh Verma',
+            to: '/docs/divyansh',
+            position: 'left'
+          },
+          {
+            label: 'Harsh Singh',
+            to: '/docs/harsh',
+            position: 'left'
+          },
+          {
+            label: 'Kartikay Singh Pundir',
+            to: '/docs/Kartikay',
+            position: 'left'
+          },
+          {
+            label: 'Mahak Pathak',
+            to: '/docs/mahak',
+            position: 'left'
+          },
+          {
+            label: 'Mrigank',
+            to: '/docs/Mrigank',
             position: 'left'
           },
           {
@@ -191,11 +136,56 @@ const config = {
             position: 'left'
           },
           {
-            label:'Tanvee Saxena',
-            to:'/docs/tanvee',
-            position:'left'
+            label: 'Navya Gupta',
+            to: '/docs/navya',
+            position: 'left'
+          },
+          {
+            label: 'Ritik Tayal',
+            to: '/docs/ritik',
+            position: 'left'
+          },
+          {
+            label: 'Ritika Tiwari',
+            to: '/docs/ritika',
+            position: 'left'
+          },
+          {
+            label: 'Sachi',
+            to: '/docs/Sachi',
+            position: 'left'
+          },
+          {
+            label: 'Shivani Rai',
+            to: '/docs/shivani',
+            position: 'left'
+          },
+          {
+            label: 'Shivansh Goyal',
+            to: '/docs/shivansh',
+            position: 'left'
+          },
+          {
+            label: 'Shreyanshu',
+            to: '/docs/shreyanshu',
+            position: 'left'
+          },
+          {
+            label: 'Srayansh Gupta',
+            to: '/docs/srayansh',
+            position: 'left'
+          },
+          {
+            label: 'Tanvee Saxena',
+            to: '/docs/tanvee',
+            position: 'left'
+          },
+          {
+            label: 'Tanishka Gautam',
+            to: '/docs/tanishka',
+            position: 'left'
+          },
 
-          }
           // {
           //   label: 'About',
           //   to: '/docs/about',
