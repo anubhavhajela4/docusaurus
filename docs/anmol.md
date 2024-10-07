@@ -7,27 +7,36 @@ sidebar_label: anmol
 # Welcome to My Portfolio
 
 
-![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXNi0dkLHKi3QtCId9yWid3UTsTdT00C0lw&s)
+![Profile Image](https://ibb.co/qybj41v)
 
 ## Introduction
 
 Hello, I'm Anmol Sharma, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
+## Progress Report 
 
+### Task 1 : My goal is to create a personal portfolio website using only HTML and CSS. This portfolio will showcase my skills, projects, and personal information in a professional and visually appealing way.
+
+![Task 1](https://ibb.co/TwjHtNm)
+
+#### Learning: 
+  ##### 1) Learned about Media queries and how to make website responsive.
+  ##### 2) Learned about psuedo classes and elements.
+  ##### 3) Learned about dispaly property.
 ## Featured Work
 
-### Project 1: Awesome Project
+### Project 1: Guess The Pokemon Project
 
-![Project 1](https://example.com/project1.jpg)
+![Project 1](https://ibb.co/stX3z8B)
 
-- *Description:* This is an awesome project I worked on. It does amazing things.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
+- *Description:* Guess the Pokémon" is an interactive web-based game where players are presented with a silhouette or partial image of a Pokémon, and they must guess the name of the Pokémon within a limited time. The game usually features input boxes where players type their guesses, which are then evaluated for accuracy. Based on the input, the game provides visual feedback—such as color changes (green for correct, red for incorrect)—and keeps track of the player's score or level.
+- *GitHub Repository:* [Project 1 Repo](https://github.com/Anmol202005/pokemon_Guess)
 
-### Project 2: Cool Project
+### Project 2: Weather Project
 
-![Project 2](https://example.com/project2.jpg)
+![Project 2](https://ibb.co/wdJ3F13)
 
-- *Description:* This is a cool project that I contributed to. It has some great features.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
+- *Description:* Using API-based weather data, the site would adapt watering schedules to current and future conditions like rainfall, temperature, and humidity to avoid overwatering and water waste.
+- *GitHub Repository:* [Project 2 Repo](https://github.com/Anmol202005/weather)
 
 ## Call to Action
 
