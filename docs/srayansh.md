@@ -11,9 +11,17 @@ sidebar_label: Srayansh
 
 ## Introduction
 
-Hello, I am Srayansh Gupta, a 2-year student currently pursuing B.tech from Ajay Kumar Garg Engineering College. I am dedicated 
+Hello, I am Srayansh Gupta, a 2-year student currently pursuing B.tech from Ajay Kumar Garg Engineering College. 
 
+## Things that I have learned Till Now
+I was given a task to make portfolio which should include navbar, contact form and my projects.
 
+*Github Repository* - https://github.com/SRAYANSH-GUPTA/Portfolio  <br />
+*Hosted Link* - https://portfolio-tau-gules-76.vercel.app/
+
+In this website I have learned how to add media queries to make website fit for every device and I tried to use grids and flexbox.
+
+There are some flaws in website and will be fixed soon such as working of hamburger icon.
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
