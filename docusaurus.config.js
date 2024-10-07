@@ -185,6 +185,11 @@ const config = {
             to: '/docs/tanishka',
             position: 'left'
           },
+          {
+            label:'Kanishak Rajput',
+            to:'/docs/kanishak',
+            position:'left'
+          }
 
           // {
           //   label: 'About',
