@@ -16,7 +16,7 @@ Hello, I am Srayansh Gupta, a 2-year student currently pursuing B.tech from Ajay
 ## Things that I have learned Till Now
 I was given a task to make portfolio which should include navbar, contact form and my projects.
 
-*Github Repository* - https://github.com/SRAYANSH-GUPTA/Portfolio  <br>
+*Github Repository* - https://github.com/SRAYANSH-GUPTA/Portfolio  <br />
 *Hosted Link* - https://portfolio-tau-gules-76.vercel.app/
 
 In this website I have learned how to add media queries to make website fit for every device and I tried to use grids and flexbox.
