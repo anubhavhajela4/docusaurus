@@ -56,7 +56,7 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
 - *Description:* Mystery Mon is an interactive web application created using HTML, CSS, and JavaScript. It invites users to explore and solve captivating mysteries through engaging gameplay and dynamic visuals.
 
 - *GitHub Repository:* [Mystery-Mon Repo](https://github.com/Shreyanshu005/Mystery-Mon)
-- *Hosted link:* [Mystery-Mon](https://my-portfolio-two-orcin-67.vercel.app/)
+- *Hosted link:* [Mystery-Mon](https://shreyanshu005.github.io/Mystery-Mon/)
 
 ### Project 2: Botanist
 
