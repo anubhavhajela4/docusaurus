@@ -1,34 +1,41 @@
 ---
-id: Srayansh  
-title: Srayansh
-sidebar_label: Srayansh
+id: sneha
+title: sneha
+sidebar_label: sneha
 ---
 
 # Welcome to My Portfolio
 
 
-![Profile Image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*MebmMJQUm2Nvn7UnZXcChg.jpeg)
+![Profile Image](https://example.com/profile-image.jpg)
 
 ## Introduction
 
-Hello, I am Srayansh Gupta, a 2-year student currently pursuing B.tech from Ajay Kumar Garg Engineering College. 
+Hello, I'm John Doe, a passionate software engineer with a keen interest in web development. I am dedicated to creating high-quality software solutions and exploring new technologies. With a background in computer science, I bring a strong foundation in problem-solving and a commitment to delivering top-notch results.
 
-## Things that I have learned Till Now
-I was given a task to make portfolio which should include navbar, contact form and my projects.
+## Featured Work
 
-*Github Repository* - https://github.com/SRAYANSH-GUPTA/Portfolio  <br />
-*Hosted Link* - https://portfolio-tau-gules-76.vercel.app/
+### Project 1: Awesome Project
 
-In this website I have learned how to add media queries to make website fit for every device and I tried to use grids and flexbox.
+![Project 1](https://example.com/project1.jpg)
 
-There are some flaws in website and will be fixed soon such as working of hamburger icon.
+- *Description:* This is an awesome project I worked on. It does amazing things.
+- *GitHub Repository:* [Project 1 Repo](https://github.com/your-username/project1)
+
+### Project 2: Cool Project
+
+![Project 2](https://example.com/project2.jpg)
+
+- *Description:* This is a cool project that I contributed to. It has some great features.
+- *GitHub Repository:* [Project 2 Repo](https://github.com/your-username/project2)
+
 ## Call to Action
 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
-- *Email:* srayansh2310022@akgec.ac.in
-- *LinkedIn:* Srayansh Gupta on LinkedIn
-- *GitHub:* [Srayansh Gupta on GitHub](https://github.com/SRAYANSH-GUPTA)
+- *Email:* john.doe@example.com
+- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/johndoe)
+- *GitHub:* [John Doe on GitHub](https://github.com/johndoe)
 
 
 
@@ -40,11 +47,11 @@ I'm always open to new opportunities and collaborations. If you have an interest
 
 ## Personal Information
 
-Hello, I'm Srayansh Gupta, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
+Hello, I'm John Doe, a dedicated and enthusiastic individual with a passion for technology and a commitment to personal and professional growth. Here's a bit about me:
 
-- *Full Name:* Srayansh Gupta
-- *Date of Birth:* 24 December, 2003
-- *Location:* Ghaziabad, IN
+- *Full Name:* John Doe
+- *Date of Birth:* January 1, 1990
+- *Location:* New York, NY
 
 ## Passions and Values
 
@@ -91,13 +98,16 @@ I thrive in dynamic environments and adapt quickly to changing circumstances, ma
   - JavaScript
 
 
-
 ### Version Control
 
 - Git
 
+## Certifications
 
 
+- [*AWS Certified Developer - Associate*](https://github.com/your-username/project1)
+- [*Certified ScrumMaster (CSM)*](https://github.com/your-username/project1)
+- [ *Google Analytics Certification*](https://github.com/your-username/project1)
 
 ## Languages
 
