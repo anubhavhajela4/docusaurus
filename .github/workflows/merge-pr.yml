@@ -1,0 +1,46 @@
+name: Merge Markdown PR
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  check-markdown-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Workflow
+      run: |
+        echo "${{ secrets.GH_TOKEN }}" | gh auth login --with-token
+
+    - name: Get changed files
+      id: changed-files
+      run: |
+        files=$(gh pr view ${{ github.event.pull_request.number }} --json files --jq '.files[].path' | tr '\n' ' ')
+        echo "files=${files}" >> $GITHUB_ENV
+
+    - name: Check if all modified files are Markdown
+      id: check-markdown
+      run: |
+        markdown_issue=false
+
+        for file in $files; do
+          if [[ "${file##*.}" != "md" ]]; then
+            markdown_issue=true
+          fi
+        done
+
+        if [[ "$markdown_issue" == "true" ]]; then
+          echo "Not all modified files are Markdown. Exiting."
+          echo "should_merge=false" >> $GITHUB_ENV
+        else
+          echo "All modified files are Markdown. Proceeding."
+          echo "should_merge=true" >> $GITHUB_ENV
+        fi
+
+    - name: Merge the PR
+      if: env.should_merge == 'true'
+      run: gh pr merge ${{ github.event.pull_request.number }} --merge
