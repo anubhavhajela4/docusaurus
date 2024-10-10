@@ -7,7 +7,7 @@ sidebar_label: shreyanshu
 # Welcome to My Portfolio
 
 
-<img src="https://i.ibb.co/vvG98cm/IMG-0300.jpg" alt="Image" width="200"  />
+<img src="https://i.ibb.co/whQzMSK/IMG-0911-1.jpg" alt="Image" width="200"  />
 
 ## Introduction
 
@@ -15,8 +15,9 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
 
 ## Featured Work
 
-## Task 1
 
+
+## Task 1 : Portfolio
 
 <img src="https://i.ibb.co/kKpL8pc/Screenshot-2024-10-06-at-11-43-56-PM.png" alt="Image" width="400" />
 
@@ -25,21 +26,41 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
  - *GitHub Repository:* [Task 1 Repo](https://github.com/Shreyanshu005/My-Portfolio)
  - *Hosted Link:* -(https://my-portfolio-two-orcin-67.vercel.app/)
 
+ # Learnings
+
+  - The key takeaway from this task was the importance of working under time constraints and collaborating effectively as a team, providing mutual support to achieve our objectives.
+
+## Task 2 : Animation
+
+<img src="https://i.ibb.co/LnxqzmG/Screenshot-2024-10-09-at-9-53-36-PM.png" alt="Image" width="400" />
+
+
+ - *Description:* Welcome to The Fox Trail Adventure!, a captivating platform runner game crafted with vibrant sprites and engaging pixel art! In this retro-inspired adventure, players take control of a fox as they sprint through a world filled with colorful landscapes. 
+ - *GitHub Repository:* [Task 2 Repo](https://github.com/Shreyanshu005/Animated-website)
+ - *Hosted Link:* -(https://animated-website-byvx.vercel.app/)
+
+ # Learnings
+
+  - Learned canvas element in html and its functions.
+  - Learned sprite animation to enhance the experience.
+  - Learned many JavaScript functions that can fasten and level up the work.
 
 
 
+## Past Projects
 ### Project 1: Mystery-Mon
 
 
 <img src="https://i.ibb.co/7S43NG1/Screenshot-2024-10-05-at-9-46-59-AM.png" alt="Image" width="400" />
 
 - *Description:* Mystery Mon is an interactive web application created using HTML, CSS, and JavaScript. It invites users to explore and solve captivating mysteries through engaging gameplay and dynamic visuals.
-- *GitHub Repository:* [Task 1(Portfolio) Repo](https://github.com/Shreyanshu005/Mystery-Mon)
-- *Hosted link:* [Portfolio](https://my-portfolio-two-orcin-67.vercel.app/)
+
+- *GitHub Repository:* [Mystery-Mon Repo](https://github.com/Shreyanshu005/Mystery-Mon)
+- *Hosted link:* [Mystery-Mon](https://shreyanshu005.github.io/Mystery-Mon/)
 
 ### Project 2: Botanist
 
-![Botanist]
+
 <img src="https://i.ibb.co/7rDm2PR/Screenshot-2024-10-05-at-10-06-05-AM.png" alt="Image" width="400"  />
 
 
