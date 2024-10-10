@@ -26,6 +26,19 @@ Hello, I'm Aryan garg, a passionate software engineer with a keen interest in we
 
 Also, i got to know a lot of issues in it and i will try to fix all of them ASAP and also apply the suggestions suggested by seniors.
 
+### Task 1
+
+<img src="https://i.postimg.cc/Y9Gsd9N7/image.png" alt="Image" width="823" height="539" />
+
+- *Description:* I developed a game in which you can practice and improve your typing skill and also this whole project is made using DOM manipulation which teach me a lot and I learned canvas , Dom panupulation , and some super cool physics implementation in dom.
+- *GitHub Repository* - <https://github.com/ARYAN-01-GARG/AnimationInJs>
+- *Hosted Link* - <https://js-animation-woad.vercel.app/>
+
+- In this project, I developed skills to make a responsive Animation Using JS and learned many concepts of javascript and most importantly how to work with every one..
+
+Also, i got to know a lot of issues in it and i will try to fix all of them ASAP and also apply the suggestions suggested by seniors.
+
+
 ## Featured Work
 
 ### Project 1: Task Manager
