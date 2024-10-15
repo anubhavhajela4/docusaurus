@@ -38,7 +38,11 @@ My Name is **Anubhav Hajela** .I am from Lucknow. I am a competitive coder who l
 
 ## Task 1 :
 
-In the First Task I learned about using git and github . I learned about how to fork a repository to makes my persocal copy of the repository so that i can make changes in it and pull request to merge it to the original repo. I also learned about cloning a repository into my local system . Basically i learned using terminal and got to know many new different commands.
+In the First Task I learned about using git and github . 
+I learned about how to fork a repository to makes my persocal copy 
+of the repository so that i can make changes in it and pull request to 
+merge it to the original repo. I also learned about cloning a repository into 
+my local system . Basically i learned using terminal and got to know many new different commands.
 
 ## Task 2 :
 
@@ -77,4 +81,25 @@ Hosted Link : https://animation-task-kohl.vercel.app/
 <br>
 Github Repo Link : https://github.com/anubhavhajela4/Animation-task.git 
 <br>
--------------------------------------------------
+
+# Task 4 :
+
+In the 4th task i had to make a game using html , css and vanilla java script only .
+<br>
+
+<img src="https://freeimage.host/i/2JSpCRn" alt="Error Displaying Image" width="823" height="539"> 
+<br>
+This task was one of the most brainstorming task . I personally faced many different bugs while making this game.
+Although the task was a tough one it gave us in-depth knowledge about game-development and hands on experience while developing a game. I would like to express my gratitute to my seniors who helped me to add many extra features . This was a team task .My teammate was Naitik Jain . We learned a lot from this project .
+
+## My Learnings :
+ - I learned about animating an image using sprite sheets .
+ - I learned using canvas .
+ - I got a deep undersstanding of game mechanics(player movement , collision detection) .
+ - Practical implementation of oops using classes and objects.
+ - Learned the importance of communication while working on a project as a team .
+ - Got to know a lot about version control (Merging , pull request etc)
+<br>
+Hosted Link : https://tekken-3.vercel.app/html/game.html
+<br>
+Github Repository : https://github.com/anubhavhajela4/Animation-task.git 
