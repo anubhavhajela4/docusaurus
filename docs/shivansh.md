@@ -28,6 +28,16 @@ Hello, I'm **Shivansh Goyal**, a 2nd-year B.Tech student in Computer Science at 
 
   Also, i got to know a lot of issues in it and i will try to fix all of them ASAP and also apply the suggestions suggested by seniors.
 
+### Task 2: JavaScript Animation
+
+<img src="https://i.postimg.cc/sXqx49zP/Screenshot-2024-10-09-215643.png" alt="Image" width="823" height="539" />
+
+- **Description:** Developed using HTML5, CSS3, and vanilla JavaScript, this ball shooter game features an engaging gameplay mechanic where the player fires bullets at approaching balls. Upon hitting a ball, an explosion animation is triggered. The game includes a recording system that tracks user input, allowing players to replay their actions with an auto-play feature for improved engagement.
+- *GitHub Repository* - https://github.com/goyalshivansh2805/animation
+- *Hosted Link* - https://animation-roan.vercel.app/
+
+In this project, I improved my skills in creating real-time animations using JavaScript. I implemented a bullet shooting system, dynamic explosion effects, and developed an auto-play functionality using recorded events.I got to learn and develop a lot of logic for all these functionality which helped me improve my overall logic.I will be improving the game to make it more engaging.
+
 ## Featured Work
 
 ### Project 1: Task Manager
