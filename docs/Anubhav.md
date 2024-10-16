@@ -55,8 +55,8 @@ This was the first project i made using Html and Css . I learned about how a sit
   like hover . I leaned many basic things about a good website like overflow management ,importance of a 
   hamburger icon or a navbar etc . This was the first time i hosted a site on vercel . Although the project 
   i made has many flaw , i will try my best to correct them as soon as possible.
-<br>GitHub Repo Link - https://github.com/anubhavhajela4/portfolio-task.git
-<br>Hosted Link - [portfolio-task-nine-wine.vercel.app](https://portfolio-task-nine-wine.vercel.app/)
+<br>GitHub Repo Link - https://github.com/anubhavhajela4/portfolio-task.git<br>
+<br>Hosted Link - [portfolio-task-nine-wine.vercel.app](https://portfolio-task-nine-wine.vercel.app/)<br>
 
 ## Task 3 :
 
